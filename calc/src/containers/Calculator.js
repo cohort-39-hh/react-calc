@@ -38,6 +38,7 @@ function Calculator () {
     setDisplayNum('0');
     setStoredNum('0');
     setCalculation(null);
+    setIsFloat(false);
   }
 
   //callback to back space displayNum 1 character
