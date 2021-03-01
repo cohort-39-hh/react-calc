@@ -10,4 +10,8 @@
   font-size: calc(10px + 2vmin);
 }
 
+.App-header {
+  border: 1px solid black;
+}
+
 
